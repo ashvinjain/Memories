@@ -2,7 +2,6 @@
 
   <img src=./client/public/memories-readme.png>
 
-<h1></h1>
 
 > Built with MERN stack (MongoDB, Express, React, and Node).
 > Memories App, where you can post interesting events that happened in your lives
