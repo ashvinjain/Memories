@@ -10,7 +10,6 @@
 
 
 
-### <h2 align="center">  💫💫💫  &nbsp; [Live Demo](https://hao-memories-mern-app.netlify.app/) 💫💫💫  </h2>
 
 
 
@@ -160,9 +159,8 @@ $ npm start (for React client side development)
 
 # Author
 
-👤 &nbsp; **Atharva Yawalkar**
+👤 &nbsp; **Ashvin Jain**
 
-- My website : [My website](https://atharva137.github.io/Atharva_Yawalkar/myPortfolio/)
-- Github :     [@atharva137](https://github.com/atharva137)
-- Linkedin :   [Atharva-yawalkar](https://www.linkedin.com/in/atharva-yawalkar-2416b41b2/)
-- Email :      [atharvayawalkar1377@gmail.com](mailto:atharvayawalkar1377@gmail.com)
+- Github :     [@ashvinjain](https://github.com/ashvinjain)
+- Linkedin :   [ashvin-jain-595949234](https://www.linkedin.com/in/ashvin-jain-595949234/)
+- Email :      [ashvinjain2021@gmail.com](mailto:ashvinjain2021@gmail.com)
