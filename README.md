@@ -107,17 +107,17 @@ $ npm start (for React client side development)
 
 <p align="center">
 <p>Screenshoots of some main features</p>
-<img src=./demo_images/desktop.png>
+<img src=./demo_images/DashBoardwithlogin.png>
 <p align="center">
-  <img src="./demo_images/iphone1.png" width="200" height="356">
+  <img src="./demo_images/DashboardwithoutLogin.png" width="200" height="356">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="./demo_images/iphone2.png" width="200" height="356">
+  <img src="./demo_images/PageDetails.png" width="200" height="356">
 </p>
  <br/>
  <p align="center">
-  <img src = "./demo_images/ipad.png" width="300" height="402"> 
+  <img src = "./demo_images/searchbytags.png" width="300" height="402"> 
 &nbsp; &nbsp; &nbsp; &nbsp;
- <img alt="tablet mockup 2" src="./demo_images/ipad2.png" width="300" height="402" margin="5px"/> 
+ <img alt="tablet mockup 2" src="./demo_images/Suggestions.png" width="300" height="402" margin="5px"/> 
 </p>
 </p>
   
